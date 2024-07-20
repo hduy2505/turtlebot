@@ -1,0 +1,9 @@
+Lab C:SLAM
+    Mapping an Environment Using Built-in ROS SLAM Methods: This involves utilizing the Simultaneous Localization and Mapping (SLAM) capabilities within the Robot Operating System (ROS) to autonomously generate a map of an environment. The process includes the robot moving through the space while its sensors collect data to construct the map.
+
+    Loading the Saved Map: After mapping, the generated map is saved and can be loaded into the ROS environment. This saved map is essential for navigation tasks as it serves as a reference for the robot’s location within the environment.
+
+    Watching SLAM Running in Real-Time: Observing SLAM in real-time allows you to monitor the mapping process as it happens. This is crucial for ensuring the accuracy of the map and for making any necessary adjustments to the robot’s path or sensor configurations.
+
+    Recording a Map of the Maze for Particle Filter Localization Project: The final map of the maze is recorded and used for a particle filter localization project, which is a probabilistic method for determining the robot’s position and orientation within the map. This is particularly useful in complex environments where the robot needs to know its precise location to navigate effectively.
+

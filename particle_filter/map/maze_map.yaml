@@ -1,0 +1,7 @@
+image: maze_map.pgm  # Ensure this matches your map image file name
+resolution: 0.05     # Adjust resolution as needed (meters per pixel)
+origin: [0.0, 0.0, 0.0]  # Adjust origin if necessary
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
